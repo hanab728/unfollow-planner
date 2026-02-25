@@ -1,0 +1,6 @@
+# Add one Instagram username per line (no @ symbol needed)
+# Lines starting with # are treated as comments and ignored
+# Example:
+# jane_doe
+# cool_photographer
+# some_brand_account
