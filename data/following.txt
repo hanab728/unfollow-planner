@@ -1,0 +1,7 @@
+# Optional: Add one Instagram username per line from your Instagram data download
+# This file lets the tool verify which accounts you actually follow
+# Lines starting with # are treated as comments and ignored
+# Example:
+# jane_doe
+# old_friend
+# some_brand_account
