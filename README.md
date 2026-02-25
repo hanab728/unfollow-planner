@@ -1,0 +1,2 @@
+# unfollow-planner
+.gitignore → Python
